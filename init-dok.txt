@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Das ist die GitKrakenerste Zeile
-=======
-Das ist die Githuberste Zeile
->>>>>>> master
+hier ist meine Zeile
