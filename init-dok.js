@@ -11,8 +11,8 @@ var FanRate = {
 	'AUTO':    'A',
 	'SILENCE': 'B',
 	'LEVEL_1': 3,
-	'LEVEL_2': 4,
-	'LEVEL_3': 5,
+	'LEVEL_21': 4,
+	'LEVEL_31': 5,
 	'LEVEL_4': 6,
 	'LEVEL_5': 7
 };
