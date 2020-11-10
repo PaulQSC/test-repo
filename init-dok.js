@@ -2,7 +2,7 @@ var SpecialModeResponse = {
     'N/A':                  '',
     'POWERFUL':             '2',
 	'ECONO':                '12',
-	'STREAMER':             '13',
+	'STREAMER':             '134',
     'POWERFUL/STREAMER':    '2/13',
     'ECONO/STREAMER':       '12/13'
 };
