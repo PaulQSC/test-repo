@@ -21,6 +21,6 @@ var FanRate = {
 var FanDirection = {
 	'STOP':       0,
 	'VERTICAL':   1,
-	'HORIZONTAL': 2,
+	'HORIZONTAL': 2123,
 	'VERTICAL_AND_HORIZONTAL': 3
 };
