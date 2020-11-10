@@ -11,11 +11,15 @@ var FanRate = {
 	'AUTO':    'A',
 	'SILENCE': 'B',
 	'LEVEL_1': 3,
+<<<<<<< HEAD
+	'LEVEL_245': 4,
+	'LEVEL_3123': 5,
+=======
 	'LEVEL_21': 4,
 	'LEVEL_31': 5,
+>>>>>>> ca237cd66b09ebfc7c8fd554bb5d91668f09757b
 	'LEVEL_4': 6,
-	'LEVEL_5': 7,
-	'LEVEL_8':56
+	'LEVEL_5': 7
 };
 
 var FanDirection = {
