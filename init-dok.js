@@ -14,7 +14,8 @@ var FanRate = {
 	'LEVEL_21': 4,
 	'LEVEL_31': 5,
 	'LEVEL_4': 6,
-	'LEVEL_5': 7
+	'LEVEL_5': 7,
+	'LEVEL_6':8
 };
 
 var FanDirection = {
