@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hier ist meine Zeile
-=======
-123 neuer Text
->>>>>>> master
