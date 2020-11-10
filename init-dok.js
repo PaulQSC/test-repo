@@ -12,7 +12,7 @@ var FanRate = {
 	'SILENCE': 'B',
 	'LEVEL_1': 3,
 	'LEVEL_21': 4,
-	'LEVEL_31': 5,
+	'LEVEL_31-Merge': 5,
 	'LEVEL_4': 6,
 	'LEVEL_5': 7,
 	'LEVEL_6':8909
