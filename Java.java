@@ -12,7 +12,8 @@ public final class Captain {
   }
 
   void setRowingBoat(final RowingBoat boat) {
-    this.rowingBoat = boat;
+    this.rowingBoat = null;
+	this.rowingBoat = boat;
   }
 
   void row() {
