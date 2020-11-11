@@ -7,7 +7,7 @@ public final class Captain {
 
   public Captain(final RowingBoat boat) {
     this.rowingBoat = boat;
-	int i = 100;
+	int i = 170;
 	while(i > 0;) {i--;}
   }
 
