@@ -6,6 +6,8 @@ public void MyTaskAsync(string[] files)
   // Fehlerkorrektur
   int i = 56;
 
+
+  // Hotfix im DPL System
   lock (_sync)
   {
     if (_myTaskIsRunning)
