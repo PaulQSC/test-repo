@@ -3,6 +3,9 @@ public void MyTaskAsync(string[] files)
   MyTaskWorkerDelegate worker = new MyTaskWorkerDelegate(MyTaskWorker);
   AsyncCallback completedCallback = new AsyncCallback(MyTaskCompletedCallback);
 
+  // Fehlerkorrektur
+  int i = 56;
+
   lock (_sync)
   {
     if (_myTaskIsRunning)
