@@ -11,6 +11,7 @@ public void MyTaskAsync(string[] files)
     if (_myTaskIsRunning)
       throw new InvalidOperationException("The control is currently busy.");
 
+	// Fehlerkorrektur
     AsyncOperation async = AsyncOperationManager.CreateOperation(null);
     worker.BeginInvoke(files, completedCallback, async);
     _myTaskIsRunning = true;
